@@ -4,7 +4,7 @@
 static const string ANTE_MERIDIAN = "am";
 static const string POST_MERIDIAN = "pm";
 
-//@author A0085504H
+
 AddCommand::AddCommand(string info) {
 
 	taskInfo = info;
